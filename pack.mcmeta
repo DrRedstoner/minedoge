@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "description": "Doge language pack"
+  },
+  "language": {
+    "en_DG": {
+      "name": "Doge English",
+      "region": "The Unidoge",
+      "bidirectional": false
+    }
+  }
+}
